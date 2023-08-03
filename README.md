@@ -1,0 +1,1 @@
+This is my first HTML project. The goal is to put together the knowledge I have gained so far through the odin project. This will be a very simple website that will be revisited after I learn about CSS.
